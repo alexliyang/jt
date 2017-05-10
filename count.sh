@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name "*.md" | xargs wc -m | tail -1
+find . -name "*.rst" | xargs wc -m | tail -1
