@@ -1,71 +1,75 @@
 太阳中篇1
 =============
 
-.. include:: 01-葛根汤[7.1].rst
-.. include:: 02-太阳感冒的不同风格.rst
-.. include:: 03-葛根汤另类作用.rst
-.. include:: 04-葛根汤与下利[7.2].rst
-.. include:: 05-下利六经辩证.rst
-.. include:: 06-葛根系应用.rst
-.. include:: 07-麻黄.rst
-.. include:: 08-葛根芩连汤.rst
-.. include:: 09-半夏.rst
-.. include:: 10-半夏药性.rst
-.. include:: 11-西医副作用的解毒剂略讲.rst
-.. include:: 12-胃不和则卧不安.rst
-.. include:: 13-半夏秫米汤.rst
-.. include:: 14-交心肾——失眠方略讲.rst
-.. include:: 15-黄芩黄连.rst
-.. include:: 16-黄芩的种类.rst
-.. include:: 17-黄芩之偶法.rst
-.. include:: 18-黄连.rst
-.. include:: 19-胡黄连.rst
-.. include:: 20-黄连之对法.rst
-.. include:: 21-孕妇吞黄连的问题.rst
-.. include:: 22-麻黄汤[7.4].rst
-.. include:: 23-麻黄汤结构.rst
-.. include:: 24-SARS之反思.rst
-.. include:: 25-麻黄汤证与针法.rst
-.. include:: 26-麻黄九禁[7.18-19,7.56-7.62].rst
-.. include:: 27-合谷复溜针法.rst
-.. include:: 28-麻黄汤与喘[7.5-7.6].rst
-.. include:: 29-大青龙汤[7.7-7.8].rst
-.. include:: 30-小青龙汤[7.9].rst
-.. include:: 31-细辛.rst
-.. include:: 32-头痛之六经辩证.rst
-.. include:: 33-细辛不过钱的问题.rst
-.. include:: 34-细辛与牙痛治疗.rst
-.. include:: 35-台湾针灸四大派简述.rst
-.. include:: 36-牙痛用药.rst
-.. include:: 37-牙痛治疗思路之转折.rst
-.. include:: 38-牙痛之青主派治法.rst
-.. include:: 39-五味子.rst
-.. include:: 40-生脉散.rst
-.. include:: 41-小青龙汤后续用方.rst
-.. include:: 42-发炎治疗之颠覆.rst
-.. include:: 43-小青龙汤加减法.rst
-.. include:: 44-栝楼根.rst
-.. include:: 45-内托生肌散.rst
-.. include:: 46-栝楼实.rst
-.. include:: 47-蛇缠身验方.rst
-.. include:: 48-栝楼根的现代研究.rst
-.. include:: 49-小青龙汤加减.rst
-.. include:: 50-小青龙加石膏汤.rst
-.. include:: 51-小青龙汤加附子.rst
-.. include:: 52-小青龙汤收尾.rst
-.. include:: 53-葛根红花汤.rst
-.. include:: 54-宜桂枝汤[7.11].rst
-.. include:: 55-桂枝加厚朴杏仁汤[7.12].rst
-.. include:: 56-宜桂枝汤[7.13].rst
-.. include:: 57-宜桂枝汤[7.14].rst
-.. include:: 58-麻黄汤与暝眩[7.15].rst
-.. include:: 59-发烦.rst
-.. include:: 60-衄解[7.16].rst
-.. include:: 61-疾病演变[7.17].rst
-.. include:: 62-不可发汗[7.18-19].rst
-.. include:: 63-宜麻黄汤[7.20-21].rst
-.. include:: 64-[7.22-7.28].rst
-.. include:: 65-[7.29].rst
-.. include:: 66-干姜附子汤[7.30].rst
-.. include:: 67-桂枝去芍药加人参生姜汤[7.31].rst
-.. include:: 68-麻杏甘石汤[7.32].rst
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   01-葛根汤[7.1].rst
+   02-太阳感冒的不同风格.rst
+   03-葛根汤另类作用.rst
+   04-葛根汤与下利[7.2].rst
+   05-下利六经辩证.rst
+   06-葛根系应用.rst
+   07-麻黄.rst
+   08-葛根芩连汤.rst
+   09-半夏.rst
+   10-半夏药性.rst
+   11-西医副作用的解毒剂略讲.rst
+   12-胃不和则卧不安.rst
+   13-半夏秫米汤.rst
+   14-交心肾——失眠方略讲.rst
+   15-黄芩黄连.rst
+   16-黄芩的种类.rst
+   17-黄芩之偶法.rst
+   18-黄连.rst
+   19-胡黄连.rst
+   20-黄连之对法.rst
+   21-孕妇吞黄连的问题.rst
+   22-麻黄汤[7.4].rst
+   23-麻黄汤结构.rst
+   24-SARS之反思.rst
+   25-麻黄汤证与针法.rst
+   26-麻黄九禁[7.18-19,7.56-7.62].rst
+   27-合谷复溜针法.rst
+   28-麻黄汤与喘[7.5-7.6].rst
+   29-大青龙汤[7.7-7.8].rst
+   30-小青龙汤[7.9].rst
+   31-细辛.rst
+   32-头痛之六经辩证.rst
+   33-细辛不过钱的问题.rst
+   34-细辛与牙痛治疗.rst
+   35-台湾针灸四大派简述.rst
+   36-牙痛用药.rst
+   37-牙痛治疗思路之转折.rst
+   38-牙痛之青主派治法.rst
+   39-五味子.rst
+   40-生脉散.rst
+   41-小青龙汤后续用方.rst
+   42-发炎治疗之颠覆.rst
+   43-小青龙汤加减法.rst
+   44-栝楼根.rst
+   45-内托生肌散.rst
+   46-栝楼实.rst
+   47-蛇缠身验方.rst
+   48-栝楼根的现代研究.rst
+   49-小青龙汤加减.rst
+   50-小青龙加石膏汤.rst
+   51-小青龙汤加附子.rst
+   52-小青龙汤收尾.rst
+   53-葛根红花汤.rst
+   54-宜桂枝汤[7.11].rst
+   55-桂枝加厚朴杏仁汤[7.12].rst
+   56-宜桂枝汤[7.13].rst
+   57-宜桂枝汤[7.14].rst
+   58-麻黄汤与暝眩[7.15].rst
+   59-发烦.rst
+   60-衄解[7.16].rst
+   61-疾病演变[7.17].rst
+   62-不可发汗[7.18-19].rst
+   63-宜麻黄汤[7.20-21].rst
+   64-[7.22-7.28].rst
+   65-[7.29].rst
+   66-干姜附子汤[7.30].rst
+   67-桂枝去芍药加人参生姜汤[7.31].rst
+   68-麻杏甘石汤[7.32].rst

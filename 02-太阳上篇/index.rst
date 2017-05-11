@@ -1,81 +1,85 @@
 太阳上篇
 ===========
 
-.. include:: 01-条文6.1-6.5.rst
-.. include:: 02-条文6.06.rst
-.. include:: 03-条文6.7.rst
-.. include:: 04-发于阴发于阳、成数.rst
-.. include:: 05-旋覆花及接骨方.rst
-.. include:: 06-成数续.rst
-.. include:: 07-传经[6.8].rst
-.. include:: 08-太阳病欲解时[6.9].rst
-.. include:: 09-伤寒例治病时机[3.10,3.30-31].rst
-.. include:: 10-风家表解[6.10].rst
-.. include:: 11-真寒假热真热假寒[6.11-12].rst
-.. include:: 12-桂枝汤[6.13-14].rst
-.. include:: 13-桂芍甘姜枣.rst
-.. include:: 14-桂枝汤证的病机与治则.rst
-.. include:: 15-桂枝汤剂量煎煮服法.rst
-.. include:: 16-桂枝.rst
-.. include:: 17-芍药.rst
-.. include:: 18-姜.rst
-.. include:: 19-大枣.rst
-.. include:: 20-甘草.rst
-.. include:: 21-医宗金鉴、医方集解论桂枝汤.rst
-.. include:: 22-桂枝汤医案.rst
-.. include:: 23-阳和汤及桂枝汤医案.rst
-.. include:: 24-桂枝加葛根汤[6.15].rst
-.. include:: 25-葛根.rst
-.. include:: 26-经方饮食禁忌.rst
-.. include:: 27-生机疗法.rst
-.. include:: 28-伤寒学习方法.rst
-.. include:: 29-桂枝加葛根汤桂枝芍药用量.rst
-.. include:: 30-其气上冲与奔豚.rst
-.. include:: 31-桂枝汤禁忌续.rst
-.. include:: 32-桂枝汤加厚朴杏仁[6.19].rst
-.. include:: 33-杏仁的使用范围与时机.rst
-.. include:: 34-学习中医的探讨.rst
-.. include:: 35-厚朴（对比枳实）.rst
-.. include:: 36-桂枝加附子汤、气化.rst
-.. include:: 37-附子.rst
-.. include:: 38-附子毒性的处理.rst
-.. include:: 39-生附子与炮制法.rst
-.. include:: 40-当归生姜羊肉汤的做法.rst
-.. include:: 41-桂枝去芍药汤、促、结、代脉.rst
-.. include:: 42-桂麻各半汤、烦与躁.rst
-.. include:: 43-白虎汤、桂枝二麻黃一湯[6.26].rst
-.. include:: 44-桂枝二越婢一汤.rst
-.. include:: 45-桂枝去桂加苓术汤.rst
-.. include:: 46-鼻子过敏的病机与治法.rst
-.. include:: 47-小青龙汤备注.rst
-.. include:: 48-阳明白虎汤主证.rst
-.. include:: 49-白虎汤.rst
-.. include:: 50-血虚发热、当归补血汤.rst
-.. include:: 51-白虎加人参汤.rst
-.. include:: 52-知母、玄参.rst
-.. include:: 53-石膏与滑石.rst
-.. include:: 54-知母.rst
-.. include:: 55-粳米.rst
-.. include:: 56-广东粥.rst
-.. include:: 57-锅巴.rst
-.. include:: 58-米的不同煮法与药性.rst
-.. include:: 59-人参.rst
-.. include:: 60-胃溃疡.rst
-.. include:: 61-术.rst
-.. include:: 62-白术的各类用法.rst
-.. include:: 63-许叔微枳术丸.rst
-.. include:: 64-重症肌无力与平胃散.rst
-.. include:: 65-苍术治夜盲症.rst
-.. include:: 66-平胃散.rst
-.. include:: 67-带病延命引发的思考.rst
-.. include:: 68-术（续）.rst
-.. include:: 69-二妙散、三妙散.rst
-.. include:: 70-茯苓及猪芩、雷丸.rst
-.. include:: 71-土茯苓.rst
-.. include:: 72-茯苓、茯神.rst
-.. include:: 73-阴阳两虚治则[6.30].rst
-.. include:: 74-关于学医的岔题.rst
-.. include:: 75-阳旦证[6.31-32].rst
-.. include:: 76-人体的自然的疗愈力.rst
-.. include:: 77-桂枝二越婢一汤的准则.rst
-.. include:: 78-桂枝去桂加茯苓白术汤.rst
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   01-条文6.1-6.5
+   02-条文6.06
+   03-条文6.7
+   04-发于阴发于阳、成数
+   05-旋覆花及接骨方
+   06-成数续
+   07-传经[6.8].rst
+   08-太阳病欲解时[6.9].rst
+   09-伤寒例治病时机[3.10,3.30-31].rst
+   10-风家表解[6.10].rst
+   11-真寒假热真热假寒[6.11-12].rst
+   12-桂枝汤[6.13-14].rst
+   13-桂芍甘姜枣.rst
+   14-桂枝汤证的病机与治则.rst
+   15-桂枝汤剂量煎煮服法.rst
+   16-桂枝.rst
+   17-芍药.rst
+   18-姜.rst
+   19-大枣.rst
+   20-甘草.rst
+   21-医宗金鉴、医方集解论桂枝汤.rst
+   22-桂枝汤医案.rst
+   23-阳和汤及桂枝汤医案.rst
+   24-桂枝加葛根汤[6.15].rst
+   25-葛根.rst
+   26-经方饮食禁忌.rst
+   27-生机疗法.rst
+   28-伤寒学习方法.rst
+   29-桂枝加葛根汤桂枝芍药用量.rst
+   30-其气上冲与奔豚.rst
+   31-桂枝汤禁忌续.rst
+   32-桂枝汤加厚朴杏仁[6.19].rst
+   33-杏仁的使用范围与时机.rst
+   34-学习中医的探讨.rst
+   35-厚朴（对比枳实）.rst
+   36-桂枝加附子汤、气化.rst
+   37-附子.rst
+   38-附子毒性的处理.rst
+   39-生附子与炮制法.rst
+   40-当归生姜羊肉汤的做法.rst
+   41-桂枝去芍药汤、促、结、代脉.rst
+   42-桂麻各半汤、烦与躁.rst
+   43-白虎汤、桂枝二麻黃一湯[6.26].rst
+   44-桂枝二越婢一汤.rst
+   45-桂枝去桂加苓术汤.rst
+   46-鼻子过敏的病机与治法.rst
+   47-小青龙汤备注.rst
+   48-阳明白虎汤主证.rst
+   49-白虎汤.rst
+   50-血虚发热、当归补血汤.rst
+   51-白虎加人参汤.rst
+   52-知母、玄参.rst
+   53-石膏与滑石.rst
+   54-知母.rst
+   55-粳米.rst
+   56-广东粥.rst
+   57-锅巴.rst
+   58-米的不同煮法与药性.rst
+   59-人参.rst
+   60-胃溃疡.rst
+   61-术.rst
+   62-白术的各类用法.rst
+   63-许叔微枳术丸.rst
+   64-重症肌无力与平胃散.rst
+   65-苍术治夜盲症.rst
+   66-平胃散.rst
+   67-带病延命引发的思考.rst
+   68-术（续）.rst
+   69-二妙散、三妙散.rst
+   70-茯苓及猪芩、雷丸.rst
+   71-土茯苓.rst
+   72-茯苓、茯神.rst
+   73-阴阳两虚治则[6.30].rst
+   74-关于学医的岔题.rst
+   75-阳旦证[6.31-32].rst
+   76-人体的自然的疗愈力.rst
+   77-桂枝二越婢一汤的准则.rst
+   78-桂枝去桂加茯苓白术汤.rst

@@ -1,75 +1,79 @@
 太阳下篇
 ==========
 
-.. include:: 01-脏结与结胸.rst
-.. include:: 02-五脏结证治.rst
-.. include:: 03-闲话肾结石.rst
-.. include:: 04-脏结证治禁与危候[8.7].rst
-.. include:: 05-结胸证与痞证成因[8.8].rst
-.. include:: 06-结胸证型.rst
-.. include:: 07-大陷胸丸[8.9].rst
-.. include:: 08-结胸证治禁与危候[8.10-11].rst
-.. include:: 09-大陷胸汤[8.12-16].rst
-.. include:: 10-结胸病医案.rst
-.. include:: 11-小陷胸汤[8.17].rst
-.. include:: 12-胸痹证治.rst
-.. include:: 13-大陷胸丸温和用法.rst
-.. include:: 14-朱肱-海蛤散.rst
-.. include:: 15-许叔微-结胸灸法.rst
-.. include:: 16-李杲-复元活血汤.rst
-.. include:: 17-傅青主治结胸法.rst
-.. include:: 18-张锡纯-荡胸汤.rst
-.. include:: 19-石蜜.rst
-.. include:: 20-栝楼实.rst
-.. include:: 21-协热利[8.18].rst
-.. include:: 22-太阳病误下脉证[8.19].rst
-.. include:: 23-热水结皮下-文蛤散.rst
-.. include:: 24-文蛤散方剂结构.rst
-.. include:: 25-海蛤文蛤.rst
-.. include:: 26-寒实结胸-三物小白散.rst
-.. include:: 27-巴豆.rst
-.. include:: 28-医案说明及荐书.rst
-.. include:: 29-贝母.rst
-.. include:: 30-贝母的分类.rst
-.. include:: 31-结胸类证-太少并病[8.21,8.49].rst
-.. include:: 32-热入血室.rst
-.. include:: 33-结胸类证-柴胡桂枝汤证[8.25].rst
-.. include:: 34-结胸类证-柴胡桂枝干姜汤证[8.26].rst
-.. include:: 35-阳微结[8.27].rst
-.. include:: 36-结胸与痞证辨析[8.28].rst
-.. include:: 37-三黄泻心汤证.rst
-.. include:: 38-泻心汤[15.5].rst
-.. include:: 39-附子泻心汤证[8.34].rst
-.. include:: 40-半夏泻心汤证[8.28].rst
-.. include:: 41-太少并病误下[8.29].rst
-.. include:: 42-寒气痞-小青龙汤[8.30].rst
-.. include:: 43-十枣汤证[8.31].rst
-.. include:: 44-汗下逆变证[8.32].rst
-.. include:: 45-水痞-五苓散证[8.35].rst
-.. include:: 46-水痞-生姜泻心汤证[8.36].rst
-.. include:: 47-甘草泻心汤证[8.37].rst
-.. include:: 48-止利四法[8.38].rst
-.. include:: 49-赤石脂禹余粮汤.rst
-.. include:: 50-赤石脂.rst
-.. include:: 51-再谈赤石脂禹余粮汤.rst
-.. include:: 52-汗下逆变证[8.39].rst
-.. include:: 53-旋覆代赭汤.rst
-.. include:: 54-旋覆花.rst
-.. include:: 55-桂枝人参汤证.rst
-.. include:: 56-代赭石.rst
-.. include:: 57-再谈旋覆代赭汤.rst
-.. include:: 58-顽固胃痛治方-三合汤与四合汤.rst
-.. include:: 59-热痞兼表证.rst
-.. include:: 60-痞证类证：大柴胡汤证.rst
-.. include:: 61-瓜蒂散证.rst
-.. include:: 62-瓜蒂.rst
-.. include:: 63-赤小豆.rst
-.. include:: 64-豆豉.rst
-.. include:: 65-白虎加人参汤证.rst
-.. include:: 66-太少并病治禁.rst
-.. include:: 67-太少合病治则：黄芩汤证.rst
-.. include:: 68-黄芩汤证与食物中毒辨别.rst
-.. include:: 69-黄芩汤衍方-芍药汤、痛泄要方、胃风汤.rst
-.. include:: 70-黄连汤证.rst
-.. include:: 71-白虎汤证.rst
-.. include:: 72-再谈炙甘草汤证.rst
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   01-脏结与结胸.rst
+   02-五脏结证治.rst
+   03-闲话肾结石.rst
+   04-脏结证治禁与危候[8.7].rst
+   05-结胸证与痞证成因[8.8].rst
+   06-结胸证型.rst
+   07-大陷胸丸[8.9].rst
+   08-结胸证治禁与危候[8.10-11].rst
+   09-大陷胸汤[8.12-16].rst
+   10-结胸病医案.rst
+   11-小陷胸汤[8.17].rst
+   12-胸痹证治.rst
+   13-大陷胸丸温和用法.rst
+   14-朱肱-海蛤散.rst
+   15-许叔微-结胸灸法.rst
+   16-李杲-复元活血汤.rst
+   17-傅青主治结胸法.rst
+   18-张锡纯-荡胸汤.rst
+   19-石蜜.rst
+   20-栝楼实.rst
+   21-协热利[8.18].rst
+   22-太阳病误下脉证[8.19].rst
+   23-热水结皮下-文蛤散.rst
+   24-文蛤散方剂结构.rst
+   25-海蛤文蛤.rst
+   26-寒实结胸-三物小白散.rst
+   27-巴豆.rst
+   28-医案说明及荐书.rst
+   29-贝母.rst
+   30-贝母的分类.rst
+   31-结胸类证-太少并病[8.21,8.49].rst
+   32-热入血室.rst
+   33-结胸类证-柴胡桂枝汤证[8.25].rst
+   34-结胸类证-柴胡桂枝干姜汤证[8.26].rst
+   35-阳微结[8.27].rst
+   36-结胸与痞证辨析[8.28].rst
+   37-三黄泻心汤证.rst
+   38-泻心汤[15.5].rst
+   39-附子泻心汤证[8.34].rst
+   40-半夏泻心汤证[8.28].rst
+   41-太少并病误下[8.29].rst
+   42-寒气痞-小青龙汤[8.30].rst
+   43-十枣汤证[8.31].rst
+   44-汗下逆变证[8.32].rst
+   45-水痞-五苓散证[8.35].rst
+   46-水痞-生姜泻心汤证[8.36].rst
+   47-甘草泻心汤证[8.37].rst
+   48-止利四法[8.38].rst
+   49-赤石脂禹余粮汤.rst
+   50-赤石脂.rst
+   51-再谈赤石脂禹余粮汤.rst
+   52-汗下逆变证[8.39].rst
+   53-旋覆代赭汤.rst
+   54-旋覆花.rst
+   55-桂枝人参汤证.rst
+   56-代赭石.rst
+   57-再谈旋覆代赭汤.rst
+   58-顽固胃痛治方-三合汤与四合汤.rst
+   59-热痞兼表证.rst
+   60-痞证类证：大柴胡汤证.rst
+   61-瓜蒂散证.rst
+   62-瓜蒂.rst
+   63-赤小豆.rst
+   64-豆豉.rst
+   65-白虎加人参汤证.rst
+   66-太少并病治禁.rst
+   67-太少合病治则：黄芩汤证.rst
+   68-黄芩汤证与食物中毒辨别.rst
+   69-黄芩汤衍方-芍药汤、痛泄要方、胃风汤.rst
+   70-黄连汤证.rst
+   71-白虎汤证.rst
+   72-再谈炙甘草汤证.rst

@@ -1,71 +1,75 @@
 少阳篇
 =======
 
-.. include:: 01-少阳病及柴胡汤.rst
-.. include:: 02-条文3.14.rst
-.. include:: 03-条文3.20.rst
-.. include:: 04-小柴胡汤[7.68].rst
-.. include:: 05-小柴胡汤四大主症及兼症.rst
-.. include:: 06-小柴胡汤的用法和注意事项.rst
-.. include:: 07-少阳胆经之三焦细解.rst
-.. include:: 08-凡十一脏取决与胆.rst
-.. include:: 09-岔题-大声与本份.rst
-.. include:: 10-岔题-假力与真力.rst
-.. include:: 11-岔题-儒家的选择与道家之达人.rst
-.. include:: 12-岔题-学中医的心态与幸福感.rst
-.. include:: 13-岔题-慢慢教与慢慢学.rst
-.. include:: 14-岔题-统计数字与股票天师.rst
-.. include:: 15-岔题-救世主之与受害，加害者.rst
-.. include:: 16-岔题-怎样爱中医.rst
-.. include:: 17-黄帝内经与胆.rst
-.. include:: 18-《黄庭内景经》之胆的传说.rst
-.. include:: 19-热入血室.rst
-.. include:: 20-彭子益刘渡舟的少阳观.rst
-.. include:: 21-乏味的少阳提纲.rst
-.. include:: 22-少阳中风症状与不可吐下.rst
-.. include:: 23-惊与痰证略讲.rst
-.. include:: 24-少阳之不可发汗.rst
-.. include:: 25-标准的小柴胡证.rst
-.. include:: 26-柴胡芍药枳实甘草汤与宋本之四逆散.rst
-.. include:: 27-风邪干肝流于腑.rst
-.. include:: 28-柴胡芍药枳实甘草汤与胆结石治法.rst
-.. include:: 29-不可与柴胡汤.rst
-.. include:: 30-三阳合病之宜小柴胡汤.rst
-.. include:: 31-垃圾二条文？.rst
-.. include:: 32-少阳欲愈[10.10-11].rst
-.. include:: 33-温胆汤.rst
-.. include:: 34-柴胡汤谱系之舒肝解郁概述.rst
-.. include:: 35-逍遥散.rst
-.. include:: 36-生闷气的肝脉.rst
-.. include:: 37-肝藏魂与伤肝.rst
-.. include:: 38-逍遥散的适用范围.rst
-.. include:: 39-男人的情绪郁结与乳房.rst
-.. include:: 40-舒肝药排比.rst
-.. include:: 41-更年期综合症、加味逍遥散、温经汤.rst
-.. include:: 42-泻肝火与偏门法.rst
-.. include:: 43-补中益气汤.rst
-.. include:: 44-益肝散、柴胡疏肝散与抑郁症.rst
-.. include:: 45-躁郁症与美国人病.rst
-.. include:: 46-十六味流气饮、五香连翘汤与淋巴癌.rst
-.. include:: 47-柴葛解肌汤与败血症.rst
-.. include:: 48-腮腺炎专病专方与青主派开药法.rst
-.. include:: 49-方便与不方便法门.rst
-.. include:: 50-傅青主派疏肝解郁法.rst
-.. include:: 51-胁痛门.rst
-.. include:: 52-肝之积与脾肿大.rst
-.. include:: 53-肝气郁结－五十肩.rst
-.. include:: 54-肝郁身痛与伤寒身痛之辨.rst
-.. include:: 55-筋缩VS傅青主方现代实用剂量.rst
-.. include:: 56-手脚麻木VS气血状态.rst
-.. include:: 57-消化系统VS肝乘脾.rst
-.. include:: 58-耳病VS干眼症.rst
-.. include:: 59-腰痛辩证与治法VS润河汤.rst
-.. include:: 60-瘰疬辩证与治法.rst
-.. include:: 61-疝症.rst
-.. include:: 62-脑痛病机.rst
-.. include:: 63-少阳区块VS情志.rst
-.. include:: 64-助勇丹VS柴胡龙骨牡蛎汤VS恐慌症.rst
-.. include:: 65-散花丹VS女性情志.rst
-.. include:: 66-骨蒸与泻火.rst
-.. include:: 67-关格、虚劳发热.rst
-.. include:: 68-再谈小柴胡主证之目眩.rst
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   01-少阳病及柴胡汤.rst
+   02-条文3.14.rst
+   03-条文3.20.rst
+   04-小柴胡汤[7.68].rst
+   05-小柴胡汤四大主症及兼症.rst
+   06-小柴胡汤的用法和注意事项.rst
+   07-少阳胆经之三焦细解.rst
+   08-凡十一脏取决与胆.rst
+   09-岔题-大声与本份.rst
+   10-岔题-假力与真力.rst
+   11-岔题-儒家的选择与道家之达人.rst
+   12-岔题-学中医的心态与幸福感.rst
+   13-岔题-慢慢教与慢慢学.rst
+   14-岔题-统计数字与股票天师.rst
+   15-岔题-救世主之与受害，加害者.rst
+   16-岔题-怎样爱中医.rst
+   17-黄帝内经与胆.rst
+   18-《黄庭内景经》之胆的传说.rst
+   19-热入血室.rst
+   20-彭子益刘渡舟的少阳观.rst
+   21-乏味的少阳提纲.rst
+   22-少阳中风症状与不可吐下.rst
+   23-惊与痰证略讲.rst
+   24-少阳之不可发汗.rst
+   25-标准的小柴胡证.rst
+   26-柴胡芍药枳实甘草汤与宋本之四逆散.rst
+   27-风邪干肝流于腑.rst
+   28-柴胡芍药枳实甘草汤与胆结石治法.rst
+   29-不可与柴胡汤.rst
+   30-三阳合病之宜小柴胡汤.rst
+   31-垃圾二条文？.rst
+   32-少阳欲愈[10.10-11].rst
+   33-温胆汤.rst
+   34-柴胡汤谱系之舒肝解郁概述.rst
+   35-逍遥散.rst
+   36-生闷气的肝脉.rst
+   37-肝藏魂与伤肝.rst
+   38-逍遥散的适用范围.rst
+   39-男人的情绪郁结与乳房.rst
+   40-舒肝药排比.rst
+   41-更年期综合症、加味逍遥散、温经汤.rst
+   42-泻肝火与偏门法.rst
+   43-补中益气汤.rst
+   44-益肝散、柴胡疏肝散与抑郁症.rst
+   45-躁郁症与美国人病.rst
+   46-十六味流气饮、五香连翘汤与淋巴癌.rst
+   47-柴葛解肌汤与败血症.rst
+   48-腮腺炎专病专方与青主派开药法.rst
+   49-方便与不方便法门.rst
+   50-傅青主派疏肝解郁法.rst
+   51-胁痛门.rst
+   52-肝之积与脾肿大.rst
+   53-肝气郁结－五十肩.rst
+   54-肝郁身痛与伤寒身痛之辨.rst
+   55-筋缩VS傅青主方现代实用剂量.rst
+   56-手脚麻木VS气血状态.rst
+   57-消化系统VS肝乘脾.rst
+   58-耳病VS干眼症.rst
+   59-腰痛辩证与治法VS润河汤.rst
+   60-瘰疬辩证与治法.rst
+   61-疝症.rst
+   62-脑痛病机.rst
+   63-少阳区块VS情志.rst
+   64-助勇丹VS柴胡龙骨牡蛎汤VS恐慌症.rst
+   65-散花丹VS女性情志.rst
+   66-骨蒸与泻火.rst
+   67-关格、虚劳发热.rst
+   68-再谈小柴胡主证之目眩.rst
