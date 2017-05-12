@@ -7,7 +7,7 @@ Table of Conents
 ================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    01-概述/index

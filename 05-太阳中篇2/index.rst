@@ -1,98 +1,102 @@
 太阳中篇2
 ==========
 
-.. include:: 01-桂枝甘草汤[7.33].rst
-.. include:: 02-补坎益离丹、（心）阴阳辩证.rst
-.. include:: 03-奔豚、茯苓桂枝甘草大枣汤[7.34].rst
-.. include:: 04-奔豚、苓桂甘枣汤、心阳肾阳与水的关系.rst
-.. include:: 05-奔豚汤.rst
-.. include:: 06-当归.rst
-.. include:: 07-开骨散、佛手散.rst
-.. include:: 08-川芎.rst
-.. include:: 09-川芎药性与头痛治疗.rst
-.. include:: 10-酸枣仁汤、川芎.rst
-.. include:: 11-JT开药体会（咳嗽、脂肪瘤）.rst
-.. include:: 12-温氏奔豚汤、生熟附子差异.rst
-.. include:: 13-厚朴生姜半夏甘草人参汤[7.37].rst
-.. include:: 14-枳术汤与水饮在胃.rst
-.. include:: 15-从厚朴枳实药性分界点谈鼓胀辩证与治则.rst
-.. include:: 16-厚朴生姜半夏甘草人参汤（续）.rst
-.. include:: 17-苓桂术甘汤[7.38].rst
-.. include:: 18-仲景方之术与桂.rst
-.. include:: 19-苓桂术甘汤抓主证.rst
-.. include:: 20-治疗痰饮的基本原则——温药和之.rst
-.. include:: 21-苓桂术甘汤与眼疾.rst
-.. include:: 22-头昏辨证.rst
-.. include:: 23-水代谢层次的辩证.rst
-.. include:: 24-防眩汤——虚证头昏.rst
-.. include:: 25-痰饮篇简介.rst
-.. include:: 26-医术的讨论.rst
-.. include:: 27-苓桂枣甘汤VS脏结VS淤血.rst
-.. include:: 28-茯苓甘草汤VS五苓散VS口渴VS水循环障碍.rst
-.. include:: 29-苓桂剂.rst
-.. include:: 30-陈伯坛VS舒驰远.rst
-.. include:: 31-理脾涤饮方.rst
-.. include:: 32-雪羹.rst
-.. include:: 33-阴虚VS舌苔VS口渴VS失眠.rst
-.. include:: 34-芍药甘草附子汤[7.39].rst
-.. include:: 35-芍药甘草（附子）汤VS去杖汤VS赤芍.rst
-.. include:: 36-痿证VS苓桂术甘汤.rst
-.. include:: 37-芍药甘草附子汤.rst
-.. include:: 38-茯苓四逆汤[7.40].rst
-.. include:: 39-烦躁.rst
-.. include:: 40-茯苓四逆汤煮法与推括用法.rst
-.. include:: 41-条文7.41调胃承气汤.rst
-.. include:: 42-五苓散.rst
-.. include:: 43-小便不利，口渴.rst
-.. include:: 44-五苓散服法.rst
-.. include:: 45-五苓散VS脉浮弦VS小便不利.rst
-.. include:: 46-五苓散VS水逆VS肾脏病VS抗生素后遗症.rst
-.. include:: 47-五苓散VS头痛（暴）VS月经头痛.rst
-.. include:: 48-红疹.rst
-.. include:: 49-近视，胃苓汤.rst
-.. include:: 50-关于医案的小说明.rst
-.. include:: 51-苓桂术甘汤VS晕眩VS痰饮VS心脏病VS奔豚.rst
-.. include:: 52-芍药甘草汤VS风湿VS淤血VS脚痛.rst
-.. include:: 53-燥病篇串讲.rst
-.. include:: 54-五苓散主证[8.12].rst
-.. include:: 55-与五苓散证不同病机的几种头汗.rst
-.. include:: 56-文蛤散、五苓散、三物小陷胸汤[8.20].rst
-.. include:: 57-五苓散[8.35].rst
-.. include:: 58-水代谢障碍相关的疾病.rst
-.. include:: 59-五苓散[8.38].rst
-.. include:: 60-五苓散[9.68].rst
-.. include:: 62-五苓散[11.120].rst
-.. include:: 63-茯苓泽泻汤[11.121].rst
-.. include:: 64-霍乱、五苓散、理中丸[12.15].rst
-.. include:: 65-五苓散VS平胃散VS苓桂术甘汤VS舌诊.rst
-.. include:: 66-五苓散[14.43].rst
-.. include:: 67-淋漓.rst
-.. include:: 68-孕期高血压.rst
-.. include:: 69-五苓散腹诊.rst
-.. include:: 70-五苓散VS交肠病.rst
-.. include:: 71-比科中更猛的五苓散生粉.rst
-.. include:: 72-平胃散.rst
-.. include:: 73-藿香正气散.rst
-.. include:: 74-平胃散加减法.rst
-.. include:: 75-熏香方VS信灵香.rst
-.. include:: 76-泽泻、猪苓.rst
-.. include:: 77-泽泻.rst
-.. include:: 78-五苓散续.rst
-.. include:: 79-五苓散、茯苓甘草汤[7.44].rst
-.. include:: 80-水逆、五苓散[7.45].rst
-.. include:: 81-条文7.46.rst
-.. include:: 82-条文7.47~48.rst
-.. include:: 83-栀子豆豉汤病机VS食道VS失眠.rst
-.. include:: 84-栀子汤系.rst
-.. include:: 85-条文7.49~7.54.rst
-.. include:: 86-栀子汤系及栀子、豆豉、枳实的药性.rst
-.. include:: 87-暑病方.rst
-.. include:: 88-真武汤.rst
-.. include:: 89-真武汤的主证.rst
-.. include:: 90-真武汤及真武汤证.rst
-.. include:: 91-高血压糖尿病.rst
-.. include:: 92-实脾散、椒附散及阳药禁忌.rst
-.. include:: 93-麻黄九禁.rst
-.. include:: 94-禹余粮丸.rst
-.. include:: 95-四逆汤证.rst
-.. include:: 96-条文7.66~67.rst
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+   
+   01-桂枝甘草汤[7.33].rst
+   02-补坎益离丹、（心）阴阳辩证.rst
+   03-奔豚、茯苓桂枝甘草大枣汤[7.34].rst
+   04-奔豚、苓桂甘枣汤、心阳肾阳与水的关系.rst
+   05-奔豚汤.rst
+   06-当归.rst
+   07-开骨散、佛手散.rst
+   08-川芎.rst
+   09-川芎药性与头痛治疗.rst
+   10-酸枣仁汤、川芎.rst
+   11-JT开药体会（咳嗽、脂肪瘤）.rst
+   12-温氏奔豚汤、生熟附子差异.rst
+   13-厚朴生姜半夏甘草人参汤[7.37].rst
+   14-枳术汤与水饮在胃.rst
+   15-从厚朴枳实药性分界点谈鼓胀辩证与治则.rst
+   16-厚朴生姜半夏甘草人参汤（续）.rst
+   17-苓桂术甘汤[7.38].rst
+   18-仲景方之术与桂.rst
+   19-苓桂术甘汤抓主证.rst
+   20-治疗痰饮的基本原则——温药和之.rst
+   21-苓桂术甘汤与眼疾.rst
+   22-头昏辨证.rst
+   23-水代谢层次的辩证.rst
+   24-防眩汤——虚证头昏.rst
+   25-痰饮篇简介.rst
+   26-医术的讨论.rst
+   27-苓桂枣甘汤VS脏结VS淤血.rst
+   28-茯苓甘草汤VS五苓散VS口渴VS水循环障碍.rst
+   29-苓桂剂.rst
+   30-陈伯坛VS舒驰远.rst
+   31-理脾涤饮方.rst
+   32-雪羹.rst
+   33-阴虚VS舌苔VS口渴VS失眠.rst
+   34-芍药甘草附子汤[7.39].rst
+   35-芍药甘草（附子）汤VS去杖汤VS赤芍.rst
+   36-痿证VS苓桂术甘汤.rst
+   37-芍药甘草附子汤.rst
+   38-茯苓四逆汤[7.40].rst
+   39-烦躁.rst
+   40-茯苓四逆汤煮法与推括用法.rst
+   41-条文7.41调胃承气汤.rst
+   42-五苓散.rst
+   43-小便不利，口渴.rst
+   44-五苓散服法.rst
+   45-五苓散VS脉浮弦VS小便不利.rst
+   46-五苓散VS水逆VS肾脏病VS抗生素后遗症.rst
+   47-五苓散VS头痛（暴）VS月经头痛.rst
+   48-红疹.rst
+   49-近视，胃苓汤.rst
+   50-关于医案的小说明.rst
+   51-苓桂术甘汤VS晕眩VS痰饮VS心脏病VS奔豚.rst
+   52-芍药甘草汤VS风湿VS淤血VS脚痛.rst
+   53-燥病篇串讲.rst
+   54-五苓散主证[8.12].rst
+   55-与五苓散证不同病机的几种头汗.rst
+   56-文蛤散、五苓散、三物小陷胸汤[8.20].rst
+   57-五苓散[8.35].rst
+   58-水代谢障碍相关的疾病.rst
+   59-五苓散[8.38].rst
+   60-五苓散[9.68].rst
+   62-五苓散[11.120].rst
+   63-茯苓泽泻汤[11.121].rst
+   64-霍乱、五苓散、理中丸[12.15].rst
+   65-五苓散VS平胃散VS苓桂术甘汤VS舌诊.rst
+   66-五苓散[14.43].rst
+   67-淋漓.rst
+   68-孕期高血压.rst
+   69-五苓散腹诊.rst
+   70-五苓散VS交肠病.rst
+   71-比科中更猛的五苓散生粉.rst
+   72-平胃散.rst
+   73-藿香正气散.rst
+   74-平胃散加减法.rst
+   75-熏香方VS信灵香.rst
+   76-泽泻、猪苓.rst
+   77-泽泻.rst
+   78-五苓散续.rst
+   79-五苓散、茯苓甘草汤[7.44].rst
+   80-水逆、五苓散[7.45].rst
+   81-条文7.46.rst
+   82-条文7.47~48.rst
+   83-栀子豆豉汤病机VS食道VS失眠.rst
+   84-栀子汤系.rst
+   85-条文7.49~7.54.rst
+   86-栀子汤系及栀子、豆豉、枳实的药性.rst
+   87-暑病方.rst
+   88-真武汤.rst
+   89-真武汤的主证.rst
+   90-真武汤及真武汤证.rst
+   91-高血压糖尿病.rst
+   92-实脾散、椒附散及阳药禁忌.rst
+   93-麻黄九禁.rst
+   94-禹余粮丸.rst
+   95-四逆汤证.rst
+   96-条文7.66~67.rst
