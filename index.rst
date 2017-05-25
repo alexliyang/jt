@@ -8,7 +8,6 @@ Table of Conents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
 
    01-概述/index
    02-太阳上篇/index
@@ -38,6 +37,7 @@ Table of Conents
    26-医案/index
    参考书籍
    extras/index
+
 
 Indices and tables
 ==================
