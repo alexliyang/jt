@@ -36,7 +36,8 @@ Table of Conents
    24-中风脚气病/index
    25-惊悸吐衄下血胸满瘀血/index
    26-医案/index
-   27-赠送课/index
+   参考书籍
+   extras/index
 
 Indices and tables
 ==================
