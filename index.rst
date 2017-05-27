@@ -8,7 +8,6 @@ Table of Conents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
 
    01-概述/index
    02-太阳上篇/index
@@ -36,7 +35,9 @@ Table of Conents
    24-中风脚气病/index
    25-惊悸吐衄下血胸满瘀血/index
    26-医案/index
-   27-赠送课/index
+   参考书籍
+   extras/index
+
 
 Indices and tables
 ==================
