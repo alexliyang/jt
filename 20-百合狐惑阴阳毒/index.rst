@@ -3,7 +3,6 @@
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
 
    01-百合病[13.1].rst
    02-百合地黄汤[13.5].rst
