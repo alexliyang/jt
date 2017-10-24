@@ -9,7 +9,6 @@ Table of Conents
 .. toctree::
    :maxdepth: 1
 
-   01-概述/index
    02-太阳上篇/index
    03-太阳中篇1/index
    04-咳嗽篇/index
@@ -19,25 +18,16 @@ Table of Conents
    08-血痹虚劳篇/index
    09-太阳下篇/index
    10-阳明篇/index
-   11-太阴篇/index
-   12-少阴篇/index
    13-厥阴篇/index
    14-呕吐哕下利篇/index
-   15-桂本霍乱吐利篇/index
    16-痉湿暍篇/index
-   17-六气篇（中暑）/index
-   18-阴阳易差后劳复/index
    19-杂病例/index
-   20-百合狐惑阴阳毒/index
    21-疟病篇/index
    22-痰饮篇/index
    23-水病篇/index
    24-中风脚气病/index
    25-惊悸吐衄下血胸满瘀血/index
    26-医案/index
-   参考书籍
-   27-伤寒例/index
-   extras/index
 
 
 Indices and tables
